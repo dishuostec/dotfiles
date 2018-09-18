@@ -1,5 +1,5 @@
 alias vi=vim
-alias dc=docker-compose
+alias dcc=docker-compose
 alias ports='netstat -lntp | sort'
 
 get() { printf "\033]0;__pw:"`pwd`"\007" ;
